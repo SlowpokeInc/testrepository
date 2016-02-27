@@ -16,3 +16,8 @@
 .div-sensei {
 	border: solid 50px black;
 }
+.enemy {
+	background-color: red;
+	height: 300px;
+	width: 300px;
+}
