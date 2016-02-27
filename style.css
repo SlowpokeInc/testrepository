@@ -8,11 +8,11 @@
 .div {
 	height: 100px;
 	width: 100px;
+	background-color: grey;
 }
 .strong {
 	border: solid 2px black;
 }
 .sensei {
 	border: solid 20px black;
-	background-color: grey;
 }
